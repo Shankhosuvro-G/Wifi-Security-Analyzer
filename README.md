@@ -1,0 +1,6 @@
+- Developed a Python script to analyze WiFi security.
+- Used subprocess to run system commands and re for parsing output.
+- Extracted SSID, authentication type, and channel info.
+- Determined frequency band based on the channel.
+- Assessed network security protocols (WPA2, WPA3, WEP, Open).
+- Generated security assessments for WiFi networks.
